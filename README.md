@@ -2,6 +2,6 @@
 # LibraryApp
 Ember app using Bootstrap, Sass, Firebase
 
-* [https://bookstore-6bee5.firebaseapp.com/](Live demo).
+* Live demo [https://bookstore-6bee5.firebaseapp.com/](https://bookstore-6bee5.firebaseapp.com/.
 
-This app is base on [http://zoltan.nz/](zoltan.nz).
+This app is base on zoltan.nz app[http://zoltan.nz/](http://zoltan.nz/).
