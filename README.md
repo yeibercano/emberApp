@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Library-app
 
 This README outlines the details of collaborating on this Ember application.
@@ -51,3 +52,7 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
+=======
+# emberApp
+Ember app using Bootstrap, Sass, Firebase
+>>>>>>> 26509c245e3fc0bff675a8b19fe91c3eb4db754e
