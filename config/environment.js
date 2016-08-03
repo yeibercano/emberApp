@@ -8,9 +8,9 @@ module.exports = function(environment) {
     locationType: 'auto',
 
     firebase: {
-      apiKey: 'xyz',
+      apiKey: 'AIzaSyDOo9vLPuVcN9R8wpAbOwfTxylK8zSLwEQ',
       authDomain: 'bookstore-6bee5.firebaseapp.com',
-      databaseURL: 'https://bookstore-6bee5.firebaseio.com/',
+      databaseURL: 'https://bookstore-6bee5.firebaseio.com',
       storageBucket: 'bookstore-6bee5.appspot.com',
     },
 
