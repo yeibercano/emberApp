@@ -1,3 +1,5 @@
+import Ember from 'ember';
+
 export default Ember.HTMLBars.template((function() {
   var child0 = (function() {
     return {
